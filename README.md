@@ -1,6 +1,6 @@
 # NewsFindr: Personalized News Retrieval Agent
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/NewsFindr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sachin-Abishek/news_findr/blob/main/NewsFindr.ipynb)
 
 An agentic AI system that retrieves news matched to a user's saved interests. It looks up the user's interests in a database, builds search queries, searches the web, filters results by source credibility, and returns short summaries with links to the top three sources.
 
